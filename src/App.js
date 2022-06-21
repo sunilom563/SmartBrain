@@ -17,8 +17,6 @@ const app = new Clarifai.App({
 
 
 
-
-
 class App extends Component {
 
      constructor() {
@@ -49,15 +47,6 @@ class App extends Component {
            );
           
      }
-
-
-
-
-
-
-
-
-
 
   render() {
   return (
