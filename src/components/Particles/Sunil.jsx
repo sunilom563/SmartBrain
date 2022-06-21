@@ -74,7 +74,7 @@ function Sunil() {
               default: "bounce",
             },
             random: false,
-            speed: 3,
+            speed: 2,
             straight: false,
           },
           number: {
@@ -82,7 +82,7 @@ function Sunil() {
               enable: true,
               area: 1000,
             },
-            value:40,
+            value:80,
           },
           opacity: {
             value: 0.5,
